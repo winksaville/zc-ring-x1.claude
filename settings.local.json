@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(jj st *)",
+      "Bash(jj diff *)",
+      "Bash(vc-x1 push *)"
+    ]
+  }
+}
