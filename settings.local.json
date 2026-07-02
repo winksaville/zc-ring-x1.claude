@@ -6,7 +6,12 @@
       "Bash(vc-x1 push *)",
       "Bash(cargo fmt *)",
       "Bash(cargo clippy *)",
-      "Bash(cargo test *)"
+      "Bash(cargo test *)",
+      "Bash(rustup toolchain *)",
+      "Bash(cargo +nightly miri --version)",
+      "Bash(rustup component *)",
+      "Bash(cargo +nightly miri test roundtrip)",
+      "Bash(cargo +nightly miri test -- --skip threaded)"
     ]
   }
 }
