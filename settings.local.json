@@ -12,7 +12,8 @@
       "Bash(rustup component *)",
       "Bash(cargo +nightly miri test roundtrip)",
       "Bash(cargo +nightly miri test -- --skip threaded)",
-      "Bash(cargo +nightly miri test)"
+      "Bash(cargo +nightly miri test)",
+      "Bash(jj log *)"
     ]
   }
 }
