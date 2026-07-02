@@ -3,7 +3,10 @@
     "allow": [
       "Bash(jj st *)",
       "Bash(jj diff *)",
-      "Bash(vc-x1 push *)"
+      "Bash(vc-x1 push *)",
+      "Bash(cargo fmt *)",
+      "Bash(cargo clippy *)",
+      "Bash(cargo test *)"
     ]
   }
 }
