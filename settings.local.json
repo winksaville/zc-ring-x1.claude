@@ -19,7 +19,8 @@
       "Bash(vc-x1 fix-todo *)",
       "WebSearch",
       "Bash(cargo check *)",
-      "Bash(vc-x1 validate-todo *)"
+      "Bash(vc-x1 validate-todo *)",
+      "Bash(python3 *)"
     ]
   }
 }
