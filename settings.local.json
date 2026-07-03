@@ -15,7 +15,11 @@
       "Bash(cargo +nightly miri test)",
       "Bash(jj log *)",
       "Read(//home/wink/data/prgs/rust/iiac-perf/**)",
-      "Bash(cargo run *)"
+      "Bash(cargo run *)",
+      "Bash(vc-x1 fix-todo *)",
+      "WebSearch",
+      "Bash(cargo check *)",
+      "Bash(vc-x1 validate-todo *)"
     ]
   }
 }
