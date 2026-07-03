@@ -13,7 +13,9 @@
       "Bash(cargo +nightly miri test roundtrip)",
       "Bash(cargo +nightly miri test -- --skip threaded)",
       "Bash(cargo +nightly miri test)",
-      "Bash(jj log *)"
+      "Bash(jj log *)",
+      "Read(//home/wink/data/prgs/rust/iiac-perf/**)",
+      "Bash(cargo run *)"
     ]
   }
 }
