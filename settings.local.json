@@ -1,28 +1,7 @@
 {
   "permissions": {
     "allow": [
-      "Bash(jj st *)",
-      "Bash(jj diff *)",
-      "Bash(vc-x1 push *)",
-      "Bash(cargo fmt *)",
-      "Bash(cargo clippy *)",
-      "Bash(cargo test *)",
-      "Bash(rustup toolchain *)",
-      "Bash(cargo +nightly miri --version)",
-      "Bash(rustup component *)",
-      "Bash(cargo +nightly miri test roundtrip)",
-      "Bash(cargo +nightly miri test -- --skip threaded)",
-      "Bash(cargo +nightly miri test)",
-      "Bash(jj log *)",
       "Read(//home/wink/data/prgs/rust/iiac-perf/**)",
-      "Bash(cargo run *)",
-      "Bash(vc-x1 fix-todo *)",
-      "WebSearch",
-      "Bash(cargo check *)",
-      "Bash(vc-x1 validate-todo *)",
-      "Bash(python3 *)",
-      "Bash(git mv *)",
-      "Bash(cargo install *)",
       "Bash(zc-ring-x1-demo -V)",
       "Bash(zc-ring-x1-demo)"
     ]
