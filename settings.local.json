@@ -20,7 +20,11 @@
       "WebSearch",
       "Bash(cargo check *)",
       "Bash(vc-x1 validate-todo *)",
-      "Bash(python3 *)"
+      "Bash(python3 *)",
+      "Bash(git mv *)",
+      "Bash(cargo install *)",
+      "Bash(zc-ring-x1-demo -V)",
+      "Bash(zc-ring-x1-demo)"
     ]
   }
 }
