@@ -4,7 +4,9 @@
       "Read(//home/wink/data/prgs/rust/iiac-perf/**)",
       "Bash(zc-ring-x1-demo -V)",
       "Bash(zc-ring-x1-demo)",
-      "Bash(echo \"=== fmt exit $? ===\")"
+      "Bash(echo \"=== fmt exit $? ===\")",
+      "Bash(echo \"fmt=$?\")",
+      "Bash(grep -n \"^zcr-\\\\|^wink@\\\\|^\\\\`\\\\`\\\\`\" README.md)"
     ]
   }
 }
