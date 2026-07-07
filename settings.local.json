@@ -6,7 +6,11 @@
       "Bash(zc-ring-x1-demo)",
       "Bash(echo \"=== fmt exit $? ===\")",
       "Bash(echo \"fmt=$?\")",
-      "Bash(grep -n \"^zcr-\\\\|^wink@\\\\|^\\\\`\\\\`\\\\`\" README.md)"
+      "Bash(grep -n \"^zcr-\\\\|^wink@\\\\|^\\\\`\\\\`\\\\`\" README.md)",
+      "Bash(~/data/prgs/rust/iiac-perf/target/release/iiac-perf -d 2 zcr-mpsc)",
+      "Bash(./target/release/iiac-perf -d 5 zcr)",
+      "Bash(grep -E '^zcr|^  mean|adjusted$')",
+      "Bash(grep -n '^```' README.md)"
     ]
   }
 }
