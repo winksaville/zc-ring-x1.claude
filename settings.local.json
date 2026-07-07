@@ -10,7 +10,8 @@
       "Bash(~/data/prgs/rust/iiac-perf/target/release/iiac-perf -d 2 zcr-mpsc)",
       "Bash(./target/release/iiac-perf -d 5 zcr)",
       "Bash(grep -E '^zcr|^  mean|adjusted$')",
-      "Bash(grep -n '^```' README.md)"
+      "Bash(grep -n '^```' README.md)",
+      "Bash(grep -rn 'Commits:$' ~/data/prgs/rust/iiac-perf/notes/chores/)"
     ]
   }
 }
