@@ -12,7 +12,23 @@
       "Bash(grep -E '^zcr|^  mean|adjusted$')",
       "Bash(grep -n '^```' README.md)",
       "Bash(grep -rn 'Commits:$' ~/data/prgs/rust/iiac-perf/notes/chores/)",
-      "WebFetch(domain:www.adafruit.com)"
+      "WebFetch(domain:www.adafruit.com)",
+      "Bash(curl -s https://github.com/winksaville/zc-ring-x1/blob/main/notes/chores/chores-01.md)",
+      "Bash(gh search *)",
+      "Bash(echo \"exit: $?\")",
+      "Bash(gh issue *)",
+      "Bash(curl -s https://raw.githubusercontent.com/zed-industries/zed/main/crates/util/src/markdown.rs)",
+      "Bash(gh api *)",
+      "Bash(gh pr *)",
+      "Bash(curl -s https://raw.githubusercontent.com/zed-industries/zed/v1.9.0/crates/util/src/markdown.rs)",
+      "Bash(curl -s https://raw.githubusercontent.com/zed-industries/zed/v1.9.0/crates/markdown_preview/src/markdown_preview_view.rs)",
+      "Bash(curl -s https://raw.githubusercontent.com/zed-industries/zed/v1.9.0/crates/markdown/src/parser.rs)",
+      "Bash(curl -s https://raw.githubusercontent.com/zed-industries/zed/v1.9.0/crates/markdown/src/markdown.rs)",
+      "Bash(curl -s https://raw.githubusercontent.com/zed-industries/zed/v1.10.0/crates/markdown_preview/src/markdown_preview_view.rs)",
+      "Bash(sort -t: -k2 -rn)",
+      "Bash(rg -nP '\\\\]\\\\\\(\\(\\\\./\\)?[a-z-]+\\\\.md#[a-z0-9-]+\\\\\\)' ~/data/prgs/clones/zed/docs/src/git.md ~/data/prgs/clones/zed/docs/src/debugger.md)",
+      "Bash(curl -s https://github.com/winksaville/zed-markdown-link-issue/blob/main/README.md)",
+      "Bash(curl -s https://github.com/winksaville/zed-markdown-link-issue/blob/main/test2.md)"
     ]
   }
 }
