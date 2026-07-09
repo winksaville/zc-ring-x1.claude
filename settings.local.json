@@ -28,7 +28,14 @@
       "Bash(sort -t: -k2 -rn)",
       "Bash(rg -nP '\\\\]\\\\\\(\\(\\\\./\\)?[a-z-]+\\\\.md#[a-z0-9-]+\\\\\\)' ~/data/prgs/clones/zed/docs/src/git.md ~/data/prgs/clones/zed/docs/src/debugger.md)",
       "Bash(curl -s https://github.com/winksaville/zed-markdown-link-issue/blob/main/README.md)",
-      "Bash(curl -s https://github.com/winksaville/zed-markdown-link-issue/blob/main/test2.md)"
+      "Bash(curl -s https://github.com/winksaville/zed-markdown-link-issue/blob/main/test2.md)",
+      "Bash(command -v perf)",
+      "Bash(lscpu)",
+      "Bash(command -v iiac-perf)",
+      "Bash(iiac-perf --version)",
+      "Bash(iiac-perf *)",
+      "Bash(perf list *)",
+      "Bash(bash /tmp/claude-1000/-home-wink-data-prgs-rust-zc-ring-x1/8c66c09d-abf3-4a14-a707-759683730347/scratchpad/perf-matrix.sh)"
     ]
   }
 }
