@@ -40,7 +40,10 @@
       "Bash(perf stat *)",
       "Bash(./target/release/tp-cell spsc *)",
       "Bash(./target/release/tp-matrix *)",
-      "Bash(tp-cell mpsc *)"
+      "Bash(tp-cell mpsc *)",
+      "Bash(./target/release/tp-cell -h)",
+      "Bash(tp-matrix -V)",
+      "Bash(tp-cell --version)"
     ]
   }
 }
