@@ -37,7 +37,10 @@
       "Bash(perf list *)",
       "Bash(bash /tmp/claude-1000/-home-wink-data-prgs-rust-zc-ring-x1/8c66c09d-abf3-4a14-a707-759683730347/scratchpad/perf-matrix.sh)",
       "Bash(bash /tmp/claude-1000/-home-wink-data-prgs-rust-zc-ring-x1/8c66c09d-abf3-4a14-a707-759683730347/scratchpad/measure-matrix.sh)",
-      "Bash(perf stat *)"
+      "Bash(perf stat *)",
+      "Bash(./target/release/tp-cell spsc *)",
+      "Bash(./target/release/tp-matrix *)",
+      "Bash(tp-cell mpsc *)"
     ]
   }
 }
