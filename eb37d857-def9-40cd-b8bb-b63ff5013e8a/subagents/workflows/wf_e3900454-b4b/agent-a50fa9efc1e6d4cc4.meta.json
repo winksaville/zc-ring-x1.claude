@@ -1,0 +1,1 @@
+{"agentType":"workflow-subagent","description":"sweep:c6","workflowPhase":"Sweep","spawnDepth":1,"requestShape":"foreground","requestNonInteractive":false,"model":"sonnet"}
