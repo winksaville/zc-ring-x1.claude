@@ -45,5 +45,9 @@
       "Bash(tp-matrix -V)",
       "Bash(tp-cell --version)"
     ]
+  },
+  "sandbox": {
+    "enabled": false,
+    "autoAllowBashIfSandboxed": false
   }
 }
